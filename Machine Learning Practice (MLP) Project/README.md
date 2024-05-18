@@ -21,7 +21,7 @@ In this project, the primary goal was to develop predictive models capable of es
 ## Results
 The following projects turned out to be very successful as I secured the highest 'S' grade and achieved first rank on the effective leaderboard of the Kaggle competition of term: January, 2024.
 
-<img src="https://tushar-mahalya.github.io/images-repo/mlp_kaggle_leaderboard.jpg" alt="Image 1" width="400"/> <img src="https://tushar-mahalya.github.io/images-repo/mlp_project_grade.jpg" alt="Image 2" width="400"/>
+<img src="https://tushar-mahalya.github.io/images-repo/mlp_kaggle_leaderboard.jpg" alt="Image 1" width="400"/> <img src="https://tushar-mahalya.github.io/images-repo/mlp_project_grade.jpg" alt="Image 2" width="374"/>
 
 ## ⚠️ Warning
 This code is provided for reference purposes only. Any direct copying or misuse will be considered a violation of academic integrity policies of `Indian Institute of Technology, Madras (IIT-M)`. Use this code responsibly and at your own risk.
