@@ -1,9 +1,26 @@
 # Machine Learning Practice (MLP) Project
-In this project, the primary goal was to develop predictive models capable of estimating the ratings for various recipes based on the provided dataset. This competition, hosted on Kaggle, challenged participants to explore and analyze the dataset, leveraging their machine learning and data analysis skills to achieve the highest prediction accuracy. The final submission Notebook - 21f3000007-notebook-t12024.ipynb contains the following information -
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10Mxd9S36BOADXVv4WcqpmeBv32qAVQmM)
+
+In this project, the primary goal was to develop predictive models capable of estimating the ratings for various recipes based on the provided dataset. This competition, hosted on Kaggle, challenged participants to explore and analyze the dataset, leveraging their machine learning and data analysis skills to achieve the highest prediction accuracy. The final submission Notebook - [21f3000007-notebook-t12024.ipynb](https://github.com/tushar-mahalya/IITM-Capstone-Projects/blob/root/Machine%20Learning%20Practice%20(MLP)%20Project/21f3000007-notebook-t12024.ipynb) contains the following information -
+- Project Discription
+- Dataset Overview
 - Exploratory Data Analysis (EDA)
+- Feature Engineering
 - Data Modeling
-- Results
-- Infrences
+  - Baseline: Dummy Classifier
+  - Logistic Regression
+  - K-Nearest Neighbour (KNN)
+  - Xtreme Gradient Boosting (XGBoost)
+  - Support Vector Machine (SVM)
+  - Multi-Layer Perceptron (MLP)
+- Models Comparison
+- Stacking Ensemble (LR + XGB)
+- Model Inferences
+- Improvement Strategy & Future Scopes
+
+## Results
+The following projects turned out to be very successful as I secured the highest 'S' grade and achieved first rank on the effective leaderboard of the Kaggle competition of term: January, 2024. 
+
 
 ## ⚠️ Warning
 This code is provided for reference purposes only. Any direct copying or misuse will be considered a violation of academic integrity policies of `Indian Institute of Technology, Madras (IIT-M)`. Use this code responsibly and at your own risk.
