@@ -1,6 +1,7 @@
 # Machine Learning Practice (MLP) Project
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10Mxd9S36BOADXVv4WcqpmeBv32qAVQmM)
-[![](https://img.shields.io/badge/Open%20in-nbviewer-red.svg)](https://nbviewer.org/github/tushar-mahalya/IITM-Capstone-Projects/blob/root/Machine%20Learning%20Practice%20%28MLP%29%20Project/21f3000007-notebook-t12024.ipynb)
+[![nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-green.svg)](https://nbviewer.org/github/tushar-mahalya/IITM-Capstone-Projects/blob/root/Machine%20Learning%20Practice%20%28MLP%29%20Project/21f3000007-notebook-t12024.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tushar-mahalya/IITM-Capstone-Projects/root?labpath=Machine%2520Learning%2520Practice%2520%28MLP%29%2520Project%2F21f3000007-notebook-t12024.ipynb)
 
 In this project, the primary goal was to develop predictive models capable of estimating the ratings for various recipes based on the provided dataset. This competition, hosted on Kaggle, challenged participants to explore and analyze the dataset, leveraging their machine learning and data analysis skills to achieve the highest prediction accuracy. The final submission Notebook - [21f3000007-notebook-t12024.ipynb](https://github.com/tushar-mahalya/IITM-Capstone-Projects/blob/root/Machine%20Learning%20Practice%20(MLP)%20Project/21f3000007-notebook-t12024.ipynb) contains the following information -
 - Project Discription
