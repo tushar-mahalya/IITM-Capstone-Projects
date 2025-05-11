@@ -20,12 +20,6 @@ In this project, the primary goal was to develop predictive models capable of es
 - Model Inferences
 - Improvement Strategy & Future Scopes
 
-## Results
-The following projects turned out to be very successful as I secured the highest 'S' grade and achieved first rank on the effective leaderboard of the Kaggle competition of term: January, 2024.
-
-<img src="https://tushar-mahalya.github.io/images-repo/mlp_kaggle_leaderboard.jpg" alt="Image 1" width="400"/> <img src="https://tushar-mahalya.github.io/images-repo/mlp_project_grade.jpg" alt="Image 2" width="374"/>
-
-
 ## Note
 1. Given GitHub's limitations in rendering Jupyter notebooks accurately, it is advisable to utilize the provided buttons for accessing and opening the notebook, particularly for viewing the HTML contents for showcasing final modeling pipeline. This will ensure a more seamless experience and accurate representation of the notebook's contents.
 2. Unfortunately, due to time constraints, I couldn't incorporate the last-minute changes into the model pipeline. As a result of utilizing multi-seed inference, the outcomes presented in the final notebook may vary. Therefore, it's important to recognize that these results are not definitive and absolute. 
